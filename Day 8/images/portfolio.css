@@ -1,0 +1,120 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.water{
+    height: 180px;
+width: 1550px;
+border-width: 50px;
+background-color: #87509C;
+color: white;
+padding-bottom: 50px;
+}
+.sand{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.car{
+    list-style: none;
+    display: flex;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+li{
+    margin-left: 30px;
+}
+.cement{
+    text-align: center;
+    padding: 50px;
+    justify-content: space-between;
+}
+.shovel{
+    font-style: titillium web;
+    width: 20px;
+    font-size: x-large;
+}
+.block{
+    display: flex;
+    margin-left: 650px;
+    padding-bottom: 10px;
+    background-color: orangered;
+    color: white;
+    border: none;
+}
+.mix{
+    color: #FFFFFF;
+    font-weight: bolder;
+    text-align: center;
+    margin-left: 150px;
+    font-size: x-large;
+}
+.pen{
+    margin-left: 600px;
+    padding-top: 50px;
+    color: white;
+}
+.page{
+    margin-left: 500px;
+    color: white;
+}
+.new{
+    margin-left: 150px; 
+}
+.glass{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 30px;
+    margin-top: 40px;
+    justify-content: space-between;
+}
+.book{
+    background-color: #17C2A4;
+}
+.solve{
+    color: white;
+}
+.save{
+    color: white; 
+}
+.problem{
+    color: white;  
+}
+.botton{
+    color: white;  
+}
+.number{
+    color: white;   
+}
+.digit{
+    color: white;   
+}
+.plastic{
+    color: white;  
+}
+.brand{
+    color: white; 
+}
+.adjective{
+    margin-left: 600px;
+    padding-top: 50px; 
+}
+.pronoun{
+    margin-right: 500px;
+}
+.angry{
+    margin-left: 50px;
+}
+.stupid{
+    margin-left: 20px;
+}
+.adverb{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 30px;
+    margin-top: 40px;
+    justify-content: space-between;
+}
